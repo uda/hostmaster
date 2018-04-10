@@ -1,3 +1,3 @@
 # Hostmaster
 
-A simple way to master hosts
+A hostmaster's best friend
